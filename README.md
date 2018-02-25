@@ -10,3 +10,16 @@ Kanade dataset (CK+)". We got the better accuracy compared to state-of-the-art. 
 
 ## Requirements
 This code was done and tested with MATLAB. So, It only need MATLAB.
+
+## Reference
+If you find our work useful in your research please consider citing our paper:
+```
+@inproceedings{
+  title     = {Recognizing Facial Expressions Using Novel Motion
+Based Features},
+  author    = {Snehasis Mukherjee, Bandla Vamshi, K.V. Sai Vineeth Kumar
+Reddy, Repala Vamshi Krishna, S.V.S. Harish},
+  Conference = {ICVGIP},
+  year = {2016}
+}
+```
